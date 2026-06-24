@@ -10,7 +10,9 @@
 
 \- 1920’lere gelindiğinde, radyo yayıncılığı ve erken dönem televizyon, modern haberleşme ağlarının temelini oluşturdu.
 
-**foto**
+<p align="center">
+  <img src="HaberleşmeSistemlerineGiriş01.png" width="800">
+</p>
 
 ## Haberleşme Sistemleri
 
