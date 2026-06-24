@@ -92,7 +92,9 @@ dönüştürülür:
 
 Elektriksel olmayan sinyal(ses, video, mesaj) önce **Input Transducer(Giriş Dönüştürücüsü)** kısmında elektriksel sinyale dönüştürülür. Bu işlemden sonra sinyal; düşük enerji, düşük sinyal haline gelir. **Transmitter(iletici)** sayesinde sinyali, yüksek frekans ve yüksek enerjili sinyal haline getiririz. Daha sonra **Kanal** içerisinde **Bozulma** ve **Gürültü** devreye girebiliyor. Sinyal **Receiver(Alıcı)** kısmına gelince bu olaylardan dolayı tekrardan düşük frekanslı ve enerjili hale gelir. Burada gerekli yükseltme işlemleri yapıldıktan sonra sinyal **Output Transducer(Çıkış Dönüştürücüsü)** kısmına gelir. (Unutmamak gerek ki, sinyal bu kısımlara gelene kadar elektriksel bir sinyaldi.) Sinyal en son çıkış kısmında elektriksel olmayan sinyale dönüştürüldükten sonra başarılı bir şekilde iletimi gerçekleştirilir.
 
-
+<p align="center">
+  <img src="HaberleşmeSistemlerineGiriş07.png?v=1" width="800">
+</p>
 
 ## Bilgi(Information)
 
