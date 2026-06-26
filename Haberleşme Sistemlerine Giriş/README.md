@@ -125,7 +125,9 @@ taşıyıcıya dönüştürmeye denir.
 \- Modülasyon verici tarafında gerçekleştirilir. Demodülasyon (algılama) alıcı tarafında gerçekleştirilerek temel bant
 sinyali geri elde edilir.
 
-**foto**
+<p align="center">
+  <img src="HaberleşmeSistemlerineGiriş08.png" width="800">
+</p>
 
 ## Sinyal Bant Genişliği(Signal Bandwith)
 
@@ -148,7 +150,9 @@ sinyali geri elde edilir.
 
 \- İletilen bilgi miktarı kanal bant genişliği ile orantılıdır. Farklı modülasyon teknikleri bant genişliğini farklı verimlilikle kullanır.
 
-**foto**
+<p align="center">
+  <img src="HaberleşmeSistemlerineGiriş09.png" width="800">
+</p>
 
 𝐼: Gönderilecek bilgi miktarı
 
@@ -179,4 +183,6 @@ diğer vericilerden kaynaklanan sinyal bozulmasıdır.
 Bu etkiler birlikte sistemin güvenilirliğini, veri hızını ve genel
 performansını düşürür.
 
-**foto**
+<p align="center">
+  <img src="HaberleşmeSistemlerineGiriş10.png" width="800">
+</p>
