@@ -166,18 +166,18 @@ sinyali geri elde edilir.
 
 Haberleşme kanalı, iletilen sinyali aşağıdaki etkiler nedeniyle değiştirir:
 
-\- Zayıflama(Attenuation): Sinyal kanal boyunca yayılırken gücünün
+\- **Zayıflama(Attenuation)**: Sinyal kanal boyunca yayılırken gücünün
 azalmasıdır ve alıcıda daha zayıf sinyallerin elde edilmesine neden
 olur.
 
-\- Gürültü(Noise): Sinyal kalitesini bozan ve sinyal-gürültü oranını (SNR)
+\- **Gürültü(Noise)**: Sinyal kalitesini bozan ve sinyal-gürültü oranını (SNR)
 düşüren, istenmeyen rastgele bozucu etkiler(örneğin termal gürültü).
 
-\- Bozulma(Distortion): Kanalın frekansa bağlı özellikleri nedeniyle
+\- **Bozulma(Distortion)**: Kanalın frekansa bağlı özellikleri nedeniyle
 sinyal şeklinde meydana gelen değişimlerdir. Dalga biçiminin
 yayılmasına veya semboller arası girişime(ISI) neden olabilir.
 
-\- Girişim(Interference): Aynı veya komşu frekans bantlarında çalışan
+\- **Girişim(Interference)**: Aynı veya komşu frekans bantlarında çalışan
 diğer vericilerden kaynaklanan sinyal bozulmasıdır.
 
 Bu etkiler birlikte sistemin güvenilirliğini, veri hızını ve genel
